@@ -6,5 +6,6 @@
 -  git commit -m '上传图片'
 -  git push origin master
 
-  
+从仓库将图片链接粘贴到原链接
+blob改raw
 
